@@ -1,15 +1,15 @@
 # Smart Study Timetable Generator
 
-A Python-based project designed to generate customized study schedules based on subjects, priorities, and available study hours.
+A Python-based application designed to generate personalized study schedules based on subjects, priorities, and available study hours.
 
 ## Features
 - User input handling
-- Personalized timetable generation
-- Subject prioritization
-- Productivity-focused planning
+- Customized timetable generation
+- Study planning and scheduling
+- Productivity-focused workflow
 
 ## Technologies Used
 - Python
 
 ## Purpose
-This project was created to help students manage study time effectively and improve productivity through simple scheduling logic.
+This project was created to help students manage their study time effectively and improve productivity through simple scheduling logic.
